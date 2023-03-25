@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/77921617/224001746-6d5b7bae-201b-4063-bc2a-09e2e33605cd.png)
 
-I'm an Italy based junior backend developer enthusiast.<br/><br/>
-I'm interested in expanding my knowledge of python and currently I'm focused on learning Flask hoping to become a professional backend developer.
+I'm an Italy based junior frontend developer enthusiast.<br/><br/>
+I'm interested in expanding my knowledge of javascript and currently I'm focused on learning Angular hoping to become a professional frontend developer.
 <br/>
 <br/>
 
@@ -13,11 +13,11 @@ I'm interested in expanding my knowledge of python and currently I'm focused on 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="html5" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.flask.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" alt="python" width="40" height="40"/>
