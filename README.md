@@ -25,7 +25,7 @@ I'm interested in expanding my knowledge of javascript and typescript and curren
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.ubuntu.org/" target="_blank">
+  <a href="https://www.ubuntu.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
