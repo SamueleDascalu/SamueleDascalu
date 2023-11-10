@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/77921617/224001746-6d5b7bae-201b-4063-bc2a-09e2e33605cd.png)
 
-I'm an Italy based junior frontend developer enthusiast.<br/><br/>
-I'm interested in expanding my knowledge of javascript and typescript and currently I'm focused on learning Angular hoping to become a professional frontend developer.
+I'm an Italy based junior web developer enthusiast.<br/><br/>
+I'm interested in expanding my knowledge of javascript as frontend language and java for the backend.
 <br/>
 <br/>
 
